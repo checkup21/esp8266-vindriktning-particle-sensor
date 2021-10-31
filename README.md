@@ -1,8 +1,8 @@
-<p align="center"><h2>MQTT connectivity for the Ikea VINDRIKTNING</h2></p>
+<p align="center"><h2>MQTT connectivity for the Ikea VINDRIKTNING (for 512k boards)</h2></p>
 
 This is a fork of https://github.com/Hypfer/esp8266-vindriktning-particle-sensor
 
-This repo provides code for esp8266 boards with only 512kB (4MBit) of flash like the ones wich can be seen here:
+This repo provides code for esp8266 boards with only 512kB (4MBit) of flash, like the ones wich can be seen here:
 
 ![Total View](./img/total.jpg)
 
